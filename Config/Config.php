@@ -5,9 +5,9 @@
     const VIEWS = "Views/";
 
     //Conexion BD
-    const DB_HOST = "";
-    const DB_NAME = "";
-    const DB_USER = "";
+    const DB_HOST = "localhost";
+    const DB_NAME = "postracion";
+    const DB_USER = "root";
     const DB_PASSWORD = "";
     const DB_CHARSET = "charset=utf8";
     
